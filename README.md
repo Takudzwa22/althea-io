@@ -6,12 +6,6 @@ Althea.io is a web-based AI-powered tool that helps users verify the accuracy an
 
 https://altheaio.vercel.app/
 
-## 📂 GitHub Repository Structure
-
-├── app/ │ ├── page.tsx # Home and dashboard pages │ └── layout.tsx # Root layout and global theme ├── components/ # UI components (e.g., VerifyForm) ├── public/ # Static assets ├── styles/ │ └── globals.css # Tailwind + custom styles ├── tailwind.config.ts # Tailwind configuration ├── tsconfig.json # TypeScript configuration ├── postcss.config.mjs # PostCSS plugins ├── next.config.mjs # Next.js settings ├── package.json # Dependencies and scripts ├── .gitignore └── README.md
-
-
----
 
 ## 🧠 Project Idea
 
@@ -50,9 +44,9 @@ pnpm build
 ✨ Features
 Article verification with bias scoring
 
-Dashboard for tracking past verifications
+Dashboard for tracking past verifications -- Coming soon
 
-Clean UI with light/dark theme support
+Clean UI 
 
 Accessible and responsive across devices
 
@@ -75,9 +69,8 @@ User accounts and saved history
 Feedback loop for model improvement
 
 👥 Contributors
-[Your Name 1] – Frontend & Logic
-
-[Your Name 2] – UI/UX & Testing
+Takudzwa Mambwere 
+Abd Alrazak Altushani 
 
 📜 License
 MIT License
