@@ -13,7 +13,7 @@ Althea.io was built to address the growing concern of misinformation and bias in
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack Used
 
 - **Frontend:** React, Next.js, TypeScript
 - **Styling:** Tailwind CSS, shadcn/ui, lucide-react
