@@ -59,7 +59,7 @@ Rate-limiting (to be added in production)
 
 Minimal data persistence (privacy-focused)
 
-📈 Future Improvements
+📈 Future Improvements to be done
 Integration with NLP models or external AI APIs
 
 Visualization enhancements for bias graphs
@@ -70,7 +70,7 @@ Feedback loop for model improvement
 
 👥 Contributors
 Takudzwa Mambwere 
-Abd Alrazak Altushani 
+Abd Alrazak Altushai
 
 📜 License
 MIT License
