@@ -5,7 +5,7 @@ import "./globals.css"
 import { ThemeProvider } from "@/components/theme-provider"
 import { AuthProvider } from "@/components/auth-provider"
 
-// Clean, geometric sans-serif similar to Futura
+
 const montserrat = Montserrat({
   subsets: ["latin"],
   variable: "--font-sans",
